@@ -850,6 +850,7 @@
     "compressible": false
   },
   "video/quicktime": {
+    "extensions": ["mov"],
     "compressible": false
   },
   "video/webm": {
